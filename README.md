@@ -1,2 +1,2 @@
 # TESTRepo
-My first Repo in GitHub ***altered via command prompt
+My first Repo in GitHub that is now altered via command prompt
